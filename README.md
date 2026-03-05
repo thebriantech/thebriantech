@@ -17,4 +17,4 @@ AI Engineer | Backend Developer
 
 ## 📫 Contact
 - Email: bang15061997@gmail.com
-- LinkedIn: linkedin.com/in/bangpc
+- LinkedIn: [linkedin.com/in/bangpc](https://www.linkedin.com/in/bangpc/)
