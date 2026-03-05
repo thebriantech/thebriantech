@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Bang
+# Hi there 👋 I'm Brian
 
 AI Engineer | Backend Developer
 
