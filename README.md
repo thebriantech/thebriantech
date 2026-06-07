@@ -6,12 +6,7 @@ AI Engineer | Backend Developer
 - 6+ years experience as MLOps Engineer, AI Engineer
 - Building scalable AI inference systems
 
-## 🛠 Tech Stack
-- Python (FastAPI, Pytorch, OpenCV, etc...)
-- Docker
-- Kubernetes
-- AWS, Azure
-- SQL and NoSQL
+## My Portfolito: https://portfolio.briantech.dev/
 
 ## 📫 Contact
 - Email: bang15061997@gmail.com
