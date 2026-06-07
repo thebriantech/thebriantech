@@ -8,5 +8,5 @@ AI Engineer | Backend Developer
 - My [portfolio](https://portfolio.briantech.dev/)
 
 ## 📫 Contact
-- Email: bang15061997@gmail.com
+- Email: thebriantech.official@gmail.com
 - LinkedIn: [linkedin.com/in/bangpc](https://www.linkedin.com/in/bangpc/)
